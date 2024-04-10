@@ -15,5 +15,5 @@ module.exports = {
         "Makedonski": "mkd",
         "Slovenski": "slo"
     },
-    SUBS_SUFIX: '' // leave empty to use ISO 639-2
+    SUBS_SUFIX: '[titlovi.com]' // leave empty to use ISO 639-2
 }
